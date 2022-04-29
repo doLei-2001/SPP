@@ -1,6 +1,9 @@
 # 实验1
 
-[TOC]
+- [实验1](#实验1)
+  - [一、android studio的安装](#一android-studio的安装)
+  - [二、Anaconda安装](#二anaconda安装)
+  - [三、作业-jupyter默认打开文件夹设置](#三作业-jupyter默认打开文件夹设置)
 
 ## 一、android studio的安装
 
