@@ -1,5 +1,7 @@
 # 实验1
 
+[TOC]
+
 ## 一、android studio的安装
 
 1、首先，去非C盘新建文件夹 AndroidTool，并新建子目录AndroidProject和AndroidSDK方便以后的存放
