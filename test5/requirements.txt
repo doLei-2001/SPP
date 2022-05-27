@@ -1,0 +1,3 @@
+tflite-model-maker
+conda-repo-cli==1.0.4
+anaconda-project==0.10.1
