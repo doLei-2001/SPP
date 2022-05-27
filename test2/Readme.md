@@ -1,6 +1,6 @@
-# 实验二 创建一个Android Kotlin应用
+# 创建一个Android Kotlin应用
 
-- [实验二 创建一个Android Kotlin应用](#实验二-创建一个android-kotlin应用)
+- [ 创建一个Android Kotlin应用](#实验二-创建一个android-kotlin应用)
   - [一、实验前的准备](#一实验前的准备)
   - [二、开始实验](#二开始实验)
     - [2.1 基础设置](#21-基础设置)

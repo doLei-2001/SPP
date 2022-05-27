@@ -1,5 +1,6 @@
+# Jupyter Notebook使用
 
-# 快速排序的python实现
+## 快速排序的python实现
 
 
 ```python

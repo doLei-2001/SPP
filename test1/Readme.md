@@ -1,4 +1,4 @@
-# 实验1
+# android studio的安装
 
 - [实验1](#实验1)
   - [一、android studio的安装](#一android-studio的安装)
